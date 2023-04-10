@@ -3,7 +3,7 @@
 To write a C# program to create a sample CPU usage on a network with 4 nodes using a jagged array.
 ## Algorithm:
 ### Step 1:
-Start the C# program in visual studio 2022.
+Start the C# program in visual studio.
 
 ### Step 2:
 Declare a Jagged Array for four element.
